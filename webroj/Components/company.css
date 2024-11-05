@@ -1,0 +1,12 @@
+/* CompanySlider.module.css */
+
+/* Target each slick-slide to add margins between them */
+.slick-slide {
+    margin: 0 10px; /* Adjust this value for spacing between slides */
+  }
+  
+  /* Negative margin to offset the added spacing */
+  .slick-list {
+    margin: 0 -10px;
+  }
+  
